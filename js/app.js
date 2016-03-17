@@ -5,7 +5,7 @@ var avoid = {{site.data.avoid.avoid | jsonify }};
 var omit = {{site.data.omit.omit | jsonify }};
 var swap = {{site.data.swap.swap | jsonify }};
 
-var app = angular.module('copy-cop',[]);
+var app = angular.module('osu-copy-cop',[]);
 app.filter('machine', function($sce) {
   return function(text) {
     
