@@ -2,7 +2,7 @@
 
 # Style guide checker based on copy-cop
 
-Thanks to all the hard work by @katydecorah I using this to help learn Angular and build a tool that I can use daily.
+Thanks to all the hard work by @katydecorah I'm using this app to help learn Angular and build a tool that I can use daily.
 
 ## Resources
 
