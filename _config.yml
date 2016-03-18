@@ -1,15 +1,15 @@
-title: Copy cop
-description: Put copy in. Get plain language out.
+title: OSU copy cop
+description: Stay within the lines of the OSU style guide.
 
-baseurl: /copy-cop
+baseurl: /osu-copy-cop
 markdown: kramdown
 sass:
   style: :compressed
 
 author: 
-  name: Katy DeCorah
-  email: katydecorah@gmail.com
-  uri: http://katydecorah.com
+  name: John McQueen
+  email: 
+  uri: 
 
 angularjs: 1.4.8
 
