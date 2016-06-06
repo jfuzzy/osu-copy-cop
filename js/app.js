@@ -14,7 +14,7 @@ app.filter('machine', function($sce) {
     });
     
     avoid.forEach(function(a){
-      if (text) text = text.split(RegExp("\\b"+a+"\\b","i")).join("<mark class='avoid' data-omit='"+a+"' data=title='avoid this term'></mark>");
+      if (text) text = text.split(RegExp("\\b"+a+"\\b","i")).join("<mark class='avoid' data-omit='"+a+"' data=title='avoid this term'></mark><span>Avoid</span>");
     });
     
     swap.forEach(function(swaps){
