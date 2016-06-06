@@ -50,6 +50,10 @@ mark:before {
 	content: attr(data-omit);
 }
 
+mark:after {
+	content: attr(data-title);
+}
+
 .omit { text-decoration: line-through; }
 
 dfn {
