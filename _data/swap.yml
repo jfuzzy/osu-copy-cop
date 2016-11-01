@@ -217,6 +217,8 @@ swap:
 - "MS": "M.S."
 - "MA": "M.A."
 - "PhD": "Ph.D."
+- "pm": "p.m."
+- "am": "a.m."
 - "bachelors": "bachelor's"
 - "masters": "master's"
 - "adviser": "advisor"
